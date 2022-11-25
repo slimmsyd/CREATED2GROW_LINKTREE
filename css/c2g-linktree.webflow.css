@@ -471,14 +471,14 @@
   .links {
     display: block;
     border-width: 1px;
-    border-color: #1cd155;
+    border-color: #3454D1;
     background-color: #000;
     opacity: 1;
   }
 
-  .links:hover {
+  /* .links:hover {
     background-image: radial-gradient(circle farthest-corner at 50% 50%, #28f04c, #3ead27);
-  }
+  } */
 
   .links.brandon {
     display: -webkit-box;
@@ -506,7 +506,7 @@
     border-width: 3px;
     border-color: #fff;
     border-radius: 100%;
-    background-image: url('../images/c2g-logo.gif');
+    background-image: url('../SYDNEY.png');
     box-shadow: 0 0 20px 0 #fff;
   }
 
@@ -539,7 +539,7 @@
 
   .sub-cards.c2g {
     width: 100%;
-    border-color: #46db5c;
+    border-color: #3454D1;
   }
 
   .sub-cards.c2g:hover {
@@ -567,7 +567,7 @@
   .div-block {
     border-style: solid;
     border-width: 1px;
-    border-color: #00fc60;
+    border-color: #3454D1;
     background-color: #000;
     background-image: none;
   }
@@ -575,7 +575,7 @@
   .div-block.c2g {
     height: 30%;
     border-width: 2px;
-    border-color: #46e60b;
+    border-color: #3454D1;
     border-radius: 0px;
     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0.5)));
     background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
